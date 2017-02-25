@@ -8,8 +8,6 @@ dans github
 -create repository
 
 
-
-
 dans le terminal
  
 $mkdir nom de fichier
